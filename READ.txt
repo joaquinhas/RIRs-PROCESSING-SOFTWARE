@@ -1,0 +1,1 @@
+From your Python IDE run the file Analizador_RIR.py
